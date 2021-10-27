@@ -1,0 +1,28 @@
+.container{
+    position: relative;
+    color: white;
+    text-align: center;
+    justify-content: c;
+}
+
+.bg{
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.meno{
+    position: relative;
+    padding-top: 300px;
+    font-family: Helvetica;
+    font-size: 2em;
+}
+#klik{
+    position: relative;
+    font-family: Helvetica;
+    padding: 0px;
+    color: white;
+}
