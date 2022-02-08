@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body {
+    background-color: #292929;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+h1 {
+    text-align: center;
+}
+.sekcia {
+    margin: 20px;
+}
+table, th, td {
+    border: 1px solid white;
+}
+img {
+    object-fit: scale-down;
+    height: 250px;
+}
+
+.button {
+    margin-left: 21px;
+}
+
+    @media (max -width: 500px) {
+        body {
+            color: blue;
+        }
+        
+   
